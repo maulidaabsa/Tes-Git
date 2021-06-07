@@ -8,7 +8,7 @@
 </head>
 <body>
 <div class="container">
-<h2 align="center">Masukkan Karyawan Baru</h2>
+<h2 align="center">-Masukkan Karyawan Baru-</h2>
 <form action="home.php" method="POST" class="form-group row">
 <b>Nip:</b> <input type="text" name="nip" class="form-control" required><br>
 <b>Nama:</b> <input type="text" name="nama" class="form-control"><br>
