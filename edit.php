@@ -16,7 +16,7 @@ echo '
 </head>
 <body>
 <div class="container">
-<h2 align="center">-Ubah Data Karyawan-</h2>
+<h2 align="center">Ubah Data Karyawan</h2>
 <form action="edit.php" method="POST" class="form-group">
 Nip: <input type="text" name="nip" value="'.$edit->nip.'" class="form-control"><br>
 Nama: <input type="text" name="nama" value="'.$edit->nama.'" class="form-control"><br>
